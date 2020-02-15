@@ -1,4 +1,4 @@
-package com.sam.demo;
+package com.sam.*;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
